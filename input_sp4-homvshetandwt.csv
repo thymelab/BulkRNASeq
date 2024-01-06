@@ -1,0 +1,12 @@
+sampleName,fileName,condition
+het1,STAR1ReadsPerGene.out.tab.input,wt
+het2,STAR2ReadsPerGene.out.tab.input,wt
+het3,STAR3ReadsPerGene.out.tab.input,wt
+hom1,STAR4ReadsPerGene.out.tab.input,hom
+hom2,STAR5ReadsPerGene.out.tab.input,hom
+hom3,STAR6ReadsPerGene.out.tab.input,hom
+hom4,STAR7ReadsPerGene.out.tab.input,hom
+wt1,STAR8ReadsPerGene.out.tab.input,wt
+wt2,STAR9ReadsPerGene.out.tab.input,wt
+wt3,STAR10ReadsPerGene.out.tab.input,wt
+wt4,STAR11ReadsPerGene.out.tab.input,wt
