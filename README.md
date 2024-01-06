@@ -1,0 +1,1 @@
+Basic bulk analysis script using the following command (Rscript deseq2gene.R -d "directorywithinputfiles" -p "sp4-homvshetandwt" -s "input_sp4-homvshetandwt.csv") and input files from STAR that were prepared via this code line: for file in *ReadsPerGene.out.tab; do awk 'NR>4 {print$1"\t"$2}' $file > $file.input; done
